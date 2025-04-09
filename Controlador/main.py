@@ -1,3 +1,3 @@
-import Modelo.Cortesia as Cortesia
+import Modelo.Cortesia as CS
 
-Cortesia.saludar()
+CS.saludar()
